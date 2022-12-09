@@ -4,6 +4,7 @@
 - [영문Docs] https://doc.rust-lang.org/book/
 - [한글Docs] https://rinthel.github.io/rust-lang-book-ko/
 - [실습형 자료] https://rust-book.cs.brown.edu/
+- [유튜브 강의] https://youtu.be/W9DO6m8JSSs
 
 ## 일정
 - 1주차 (11/20 ~ 11/26)
